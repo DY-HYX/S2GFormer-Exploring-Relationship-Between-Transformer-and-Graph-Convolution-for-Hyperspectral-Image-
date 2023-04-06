@@ -1,2 +1,2 @@
-# S2GFormer-Graphormer-with-Spatial-Spectral-Attention-for-Hyperspectral-Image-Classification
+# S2GFormer: Exploring Relationship Between Transformer and Graph Convolution for Hyperspectral Image Classification
 The complete code will be uploaded after the paper is accepted.
